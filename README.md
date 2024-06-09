@@ -1,3 +1,15 @@
+This is a dummy application built to learn and understand how NextJs is utilised in web development and how we can use TypeScript for type safety. This was followed from Chai and Code Youtube channel with the changes being made to its features and integrations involving various sdks.
+Tech Stack:
+MongoDB
+NextJS
+TypeScript
+ResendEmailAPI
+GeminiAPI
+Facebook and Google OAuth Providers
+Tailwind CSS
+Zod Validator
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
