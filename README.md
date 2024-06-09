@@ -8,6 +8,7 @@ GeminiAPI
 Facebook and Google OAuth Providers
 Tailwind CSS
 Zod Validator
+ShadCN/ui
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
