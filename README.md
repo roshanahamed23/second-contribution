@@ -11,6 +11,9 @@ Zod Validator
 ShadCN/ui
 
 
+The mail functionality has issues as resend has only 1 audience per day limit so this makes it a bit difficult to work with
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
